@@ -3,7 +3,8 @@
 arbitrary change
 arbitrary change 2
 
+
 Project Team Members:
-Owen Smith
+Owen Smith Patrick Taylor
 
 Reviewed by Mathew Kim
